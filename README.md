@@ -1,3 +1,15 @@
+## About Chat Agent
+This application is built using material UI for the FrontEnd, with a backend powered by the Next.js Framework and OpenAI API. Our goal is to develop a chat agent just like the one you would find when you visit banking applications, e-commerce applications, etc.
+
+Some features we are working on:
+- Improving the UI
+- Adding authentication features
+- Implementing a feedback feature for users to rate their experience with our chatbot
+
+We are considering how we can improve our chatbot.
+
+--------------------------------------------------------------------------------------
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
